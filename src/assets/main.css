@@ -1,0 +1,8 @@
+@import './base.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+img{
+  margin-top: 50px;
+}
